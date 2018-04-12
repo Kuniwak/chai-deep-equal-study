@@ -1,0 +1,19 @@
+{
+  "name": "chai-deep-equal-study",
+  "version": "0.0.0",
+  "description": "Playground for Chai deepEqual",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuniwak/chai-deep-equal-study.git"
+  },
+  "author": "Kuniwak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kuniwak/chai-deep-equal-study/issues"
+  },
+  "homepage": "https://github.com/Kuniwak/chai-deep-equal-study#readme"
+}
